@@ -1,0 +1,9 @@
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\bin\Debug\calculatorcreate.exe.config
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\bin\Debug\calculatorcreate.exe
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\bin\Debug\calculatorcreate.pdb
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\obj\Debug\calculatorcreate.csprojResolveAssemblyReference.cache
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\obj\Debug\calculatorcreate.Form1.resources
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\obj\Debug\calculatorcreate.Properties.Resources.resources
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\obj\Debug\calculatorcreate.csproj.GenerateResource.Cache
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\obj\Debug\calculatorcreate.exe
+F:\sem-8\C#\C# programs\calculatorcreate\calculatorcreate\obj\Debug\calculatorcreate.pdb
